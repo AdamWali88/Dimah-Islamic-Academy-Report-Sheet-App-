@@ -1,0 +1,22 @@
+{
+  "name": "Dimah Academy Islamic Report Sheet — نظام تقارير أكاديمية ديمة",
+  "short_name": "Dimah Report",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf3fa",
+  "theme_color": "#12345a",
+  "id": "dimah-academy-islamic-report-sheet-v18-github-20261014",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
